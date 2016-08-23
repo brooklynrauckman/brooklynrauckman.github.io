@@ -1,10 +1,10 @@
 var teams = [
   ["Team 1", 1],
   ["Team 2", 1],
-  ["Team 3", 1],
-  ["Team 5", 1],
-  ["Team 6", 1],
-  ["Team 7", 3],
+  ["Team 3", 2],
+  ["Team 5", 0],
+  ["Team 6", 3],
+  ["Team 7", 0],
   ["Team 8", 1]
 ];
 
