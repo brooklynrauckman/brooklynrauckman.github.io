@@ -1,10 +1,10 @@
 var teams = [
-  ["Team 1", 6],
-  ["Team 2", 2],
-  ["Team 3", 1],
-  ["Team 5", 2],
-  ["Team 6", 2],
-  ["Team 8", 2]
+  ["Team 1", 8],
+  ["Team 2", 4],
+  ["Team 3", 2],
+  ["Team 5", 3],
+  ["Team 6", 3],
+  ["Team 8", 4]
 ];
 
 //blank array to fill
